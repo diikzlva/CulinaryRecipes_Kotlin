@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Culinary Recipes</string>
+    <string name="share">Поделиться</string>
+    <string name="delete">Удалить</string>
+    <string name="recipe_photo">Фотография блюда</string>
+    <string name="process">Процесс приготовления: </string>
+    <string name="ingredients">Ингредиенты: </string>
+    <string name="naming">Название: </string>
+    <string name="add">Добавить</string>
+    <string name="insert_success">Запись успешно добавлена!</string>
+    <string name="insert_error">При добавлении произошла ошибка</string>
+    <string name="incorrect_value">Вы ввелии некорректное значение</string>
+
+</resources>
